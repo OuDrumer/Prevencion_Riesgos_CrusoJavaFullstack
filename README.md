@@ -29,7 +29,7 @@ Los aspectos clave que debe abordar la solución son los siguientes:
     Generación de reportes y estadísticas: El sistema debe ser capaz de generar reportes y estadísticas que ayuden a la toma de decisiones y mejoren el rendimiento de la empresa. Estos informes deben considerar la carga laboral, la demanda de clientes y las actividades involucradas en cada contrato.
     Comunicación y acceso sin conexión a Internet: Dado que muchas empresas se encuentran en zonas sin conexión a Internet, el sistema debe permitir la comunicación con los profesionales en todo momento, incluso cuando no haya conectividad. Esto garantizará que puedan realizar sus actividades sin interrupciones y sincronizar la información una vez que haya conexión disponible.
 
-Crear una interfaz de un Menu que permita ingresar al sistema los siguientes campos:
+Interfaz Del Menú
 - Alamacenar los usuarios de tipo "Cliente"
 - Alamacenar los usuarios de tipo "Profesional"
 - Alamacenar los usuarios de tipo "Administrativo"
